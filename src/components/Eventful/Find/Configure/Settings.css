@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300');
+
+.block {
+   max-width: 250;
+}
+.radioButton {
+ margin-bottom: 16;
+}
+.flex{
+  overflow: hidden;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: flex-start; /*centers items on the line (the x-axis by default)*/
+  align-items: flex-start;
+  /* margin-top:-4%; */
+}
+.space {
+  padding: 20px;
+}
+
+.text{
+  font-family: 'Roboto', sans-serif;
+  font-size:30px;
+  font-weight:light;
+  color:#6ca0dc;
+  margin-bottom:10px;
+
+}
+
+.button {
+  margin-top:30px;
+}
+
+.tee{
+  display:flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  position: relative;
+}
+.test{
+  display:flex;
+  flex-direction:column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.plswork {
+  display:flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start
+}
+
+.plswork2 {
+  margin-right:180px;
+}
