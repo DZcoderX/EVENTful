@@ -1,8 +1,5 @@
 # EVENTful
 
-## ABOUT
-<p align="center">
-  
 #### Login Page 
 ---
 ![Welcome Page](https://i.gyazo.com/fbd542d93e15b1fb47f3286c4de22d65.png)
@@ -42,8 +39,6 @@
 #### Nosql Database 
 ---
 ![Nosql Database](https://i.gyazo.com/1a1afec5603a18af6399fb0e8da27c57.png)
-
-</p>
 
 ## Installation
 
